@@ -1,4 +1,5 @@
 # HTML/CSS/JS & DOM - Drum Kit
 <br/>
-About
+
+<h1>About</h1>
 
